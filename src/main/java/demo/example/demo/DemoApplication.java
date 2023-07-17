@@ -16,7 +16,6 @@ public class DemoApplication {
 	}
 	public static void main(String[] args) {
 		logger.info("application excuted");
-
 		SpringApplication.run(DemoApplication.class, args);
 	}
 
