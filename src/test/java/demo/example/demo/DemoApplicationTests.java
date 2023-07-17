@@ -15,7 +15,7 @@ class DemoApplicationTests {
 	void contextLoads() {
 		logger.info("test case excute");
 		logger.info("application excuting second log statement ");
-		logger.info("HELOO");
+		logger.info("HELLOO");
 
 		assertEquals(true,true);
 	}
